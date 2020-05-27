@@ -1,0 +1,23 @@
+{
+  "name": "mingabox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maainsu/Mingabox.git"
+  },
+  "author": "Ma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maainsu/Mingabox/issues"
+  },
+  "homepage": "https://github.com/maainsu/Mingabox#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "soket.io": "0.0.1-security"
+  }
+}
